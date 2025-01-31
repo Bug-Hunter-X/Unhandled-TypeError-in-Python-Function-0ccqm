@@ -1,0 +1,1 @@
+This repository contains a Python function demonstrating a common coding error: the unhandled TypeError that arises when attempting to perform an arithmetic operation on incompatible data types.  The `bug.py` file shows the function with the error.  The solution (`bugSolution.py`) adds more robust error handling.
